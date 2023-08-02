@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.reet</groupId>
-    <artifactId>spring-boot-file-upload</artifactId>
+    <artifactId>spring-boot-multipart-file-upload-example</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-boot-file-upload</name>
     <description>Spring boot multipart file upload</description>
